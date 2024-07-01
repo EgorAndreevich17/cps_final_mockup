@@ -411,7 +411,7 @@ p:not(:last-child) {
 }
 
 .brand-slider__image {
-    align-content: center;
+    align-self: center;
     margin-right: auto;
     margin-left: 16px;
 }
