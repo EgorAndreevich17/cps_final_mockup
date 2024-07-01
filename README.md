@@ -1,1 +1,1 @@
-<a href="https://egorandreevich17.github.io/mockup_cps/">Ссылка на страницу</a>
+<a href="https://egorandreevich17.github.io/mockup_cps/brand-slider.html">Ссылка на страницу</a>
