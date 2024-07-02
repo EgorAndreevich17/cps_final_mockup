@@ -433,6 +433,11 @@ p:not(:last-child) {
     display: none;
 }
 
+.swiper-pagination {
+    position: relative;
+    margin-top: 16px;
+}
+
 @media screen and (min-width: 768px) {
     .brand-slider {
         margin-left: 24px;
